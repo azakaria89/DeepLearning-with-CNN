@@ -12,3 +12,4 @@ Code examples on how to train a convolutional neural network on the MNIST datase
 * pip install git+git://github.com/fchollet/keras.git
 * Change the backend config to Theano as the default is tensorflow
 * note Tensorflow doesnt work with Python 2.7 on Windows.
+![Alt text](/DeepLearning-with-CNN/edit/master/Capture.jpg?raw=true "Epochs vs Validation accuracy of the simple model"
